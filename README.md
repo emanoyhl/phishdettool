@@ -8,7 +8,7 @@ Simple phishing detection tool; uses Flask and pandas and pickle
      ```bash
      python train_model.py
     ```
-  3. That will create a phishing_model.pkl file - if you continuously add data, please delete the .pkl file and re-run the training model on step 2. above for every newly added/updated .csv data file
+  3. That will create a phishing_model.pkl file - if you continuously add data, please delete the .pkl file and re-run the training model on as step 2 above for every newly added/updated .csv data file
   
   4. Run the program:
      ```bash
